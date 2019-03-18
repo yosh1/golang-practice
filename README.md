@@ -1,2 +1,0 @@
-# FirstGolang
-The first Golang.
